@@ -1,0 +1,20 @@
+.loginheader {
+  background-color: #57b846;
+  height: 20%;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.mlogin {
+  margin: 20px 0;
+  border-radius: 30px;
+
+  display: block;
+  /* overflow: hidden; */
+  box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+  width: 500px;
+}
